@@ -1,6 +1,6 @@
 import {RouteProps} from "react-router";
 import './style.scss'
-import React = require("react");
+import React from "react";
 
 function Privacidade(props: RouteProps) {
 
